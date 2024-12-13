@@ -1,5 +1,8 @@
 # MCoCoNav
+## 📝 TODO List
 
+ - [ ] Release demo video
+ - [ ] Improve repository information
 ## Installation
 
 The code has been tested with Python 3.10.8, CUDA 12.1.
